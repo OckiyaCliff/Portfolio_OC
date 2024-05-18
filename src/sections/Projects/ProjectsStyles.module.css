@@ -29,6 +29,12 @@
   gap: 30px;
 }
 
+.projectTitle {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
 @media (width >= 800px) {
   .projectsContainer {
     flex-direction: row;
