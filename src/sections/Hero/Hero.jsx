@@ -25,7 +25,7 @@ function Hero() {
         <img
           src={heroImg}
           className={styles.hero}
-          alt="Profile picture of Harris Johnsen"
+          alt="Profile picture of Ockiya Cliff"
         />
         <img
           className={styles.colorMode}
@@ -36,25 +36,27 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Harris
+          Ockiya
           <br />
-          Johnsen
+          Cliff
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Artist</h2>
+        <h2>Engineer</h2>
+        <h2>Entrepreneur</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://twitter.com/ObaOFArt" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/OckiyaCliff" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/ockiya-cliff-83534522b/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          With a passion for creating and developing modern Solutions through Art and
+          Technology.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
