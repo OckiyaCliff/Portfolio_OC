@@ -1,6 +1,5 @@
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
 import character from '../../assets/character.png';
 import environment from '../../assets/environment.png';
 import goat from '../../assets/goat.jpeg';
